@@ -1,0 +1,143 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+
+}
+
+#map-container {
+    position: relative;
+    height: 500px;
+    width: 100%;
+    text-align: left;
+}
+
+
+#map {
+  position: relative;
+  height: inherit;
+  width: inherit;
+}  
+
+.leaflet-interactive {
+  cursor: pointer;
+}
+
+#maplist li {
+  font-size: 1.25rem;
+}
+
+#vis {
+  position: relative;
+  height: 540px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#vis2 {
+  position: relative;
+  height: 650px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* #vis2 {
+  position: relative;
+  height: 762px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+} */
+
+#vis3 {
+  position: relative;
+  height: 640px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+#spacer1 {
+  position: relative;
+  height: 50px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+
+}
+
+#spacer2 {
+  position: relative;
+  height: 50px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+
+}
+
+#vis4 {
+  position: relative;
+  height: 500px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#vis5 {
+  position: relative;
+  height: 500px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#vis6 {
+  position: relative;
+  height: 500px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #032f5a;
+}
+.homefooter {
+  background-color: #032f5a;
+}
+
+.homefooter,
+.phomefooter {
+  padding-top: 3rem !important;
+}
+
+.homefooter,
+.homefooter {
+  padding-bottom: 3rem !important;
+}
+
+.notes {
+  color: red;
+  /* font-size: 11px; */
+}
+
+#demographics {
+  font-size: 16px;
+}
+
+#demographics td  {
+  padding-top: 8px;
+  padding-bottom: 16px;
+  vertical-align: middle;
+}
+
+.demotext {
+  font-size: 22px;
+  text-align: left;
+}
